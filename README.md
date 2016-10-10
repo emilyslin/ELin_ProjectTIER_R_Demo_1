@@ -1,4 +1,5 @@
-# The TIER Documentation Protocol v2.0 for R
+
+ # The TIER Documentation Protocol v2.0 for R
 
 ## Overview 
 
@@ -51,6 +52,7 @@ Contents of these files and folders are described in the `README` files
 within these folders.
 
 ## README
+^K
 
 The `README.md` file in the top hierarchy of your repository (this 
 file) gives information about all the other files included in the 
